@@ -6,10 +6,11 @@ function X = acoshm(A)
 
 %   Reference: 
 %   Mary Aprahamian and Nicholas J. Higham, Matrix Inverse Trigonometric
-%   and Inverse Hyperbolic Functions: Theory and Algorithms, 2015, In
-%   Preparation
+%   and Inverse Hyperbolic Functions: Theory and Algorithms, MIMS EPrint
+%   2016.4, Manchester Institute for Mathematical Sciences, The University
+%   of Manchester, UK, January 2016.
 
-%   Mary Aprahamian and Nicholas J. Higham, October 1, 2015.
+%   Mary Aprahamian and Nicholas J. Higham, 2016.
 
 [Q,T] = schur(A,'complex');
 d = diag(T);

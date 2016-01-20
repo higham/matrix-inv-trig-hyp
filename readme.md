@@ -13,9 +13,9 @@ the matrix cosine.  The algorithms are from
 
 M. Aprahamian and N. J. Higham, "[Matrix Inverse Trigonometric and Inverse
 Hyperbolic Functions: Theory and
-Algorithms](http://eprints.ma.man.ac.uk/23xx)", MIMS EPrint 2016.xx,
-Manchester Institute for Mathematical Sciences, The University of
-Manchester, UK, January 2016.
+Algorithms](http://eprints.ma.man.ac.uk/2432/)",
+MIMS EPrint 2016.4, Manchester Institute for Mathematical Sciences, The
+University of Manchester, UK, January 2016.
 
 The main functions are
 
@@ -34,7 +34,7 @@ Requirements
 -------------
 
 The codes have been developed and tested
-under MATLAB 2015a and 2015b.
+under MATLAB 2015a--2016a.
 
 License
 -------
