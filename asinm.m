@@ -1,6 +1,6 @@
 function X = asinm(A)
-%asinm    Matrix inverse sine.
-%   X = asinm(A) is the principal inverse sine of A.
+%ASINM    Matrix inverse sine.
+%   X = ASINM(A) is the principal inverse sine of A.
 %   A must not have any eigenvalues -1 or 1, which are the branch points
 %   of the inverse sine.
 

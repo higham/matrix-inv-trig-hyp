@@ -1,6 +1,6 @@
 function X = asinhm(A)
-%asinhm    Matrix inverse hyperbolic sine.
-%   X = asinhm(A) is the principal inverse hyperbolic sine of A.
+%ASINHM    Matrix inverse hyperbolic sine.
+%   X = ASINHM(A) is the principal inverse hyperbolic sine of A.
 %   A must not have any eigenvalues -i or i, which are the branch points
 %   of the inverse hyperbolic sine.
 

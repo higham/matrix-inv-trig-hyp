@@ -1,10 +1,10 @@
 function [X,s,k] = acosm(A)
-%acosm    Matrix inverse cosine.
-%   X = acosm(A) is the principal inverse cosine of A.
+%ACOSM    Matrix inverse cosine.
+%   X = ACOSM(A) is the principal inverse cosine of A.
 %   It is computed using a Schur-Pade algorithm.
 %   A must not have any eigenvalues -1 or 1, which are the branch points
 %   of the inverse cosine.
-%   [X,s,k] = acosm(A) also returns the number of matrix square roots
+%   [X,s,k] = ACOSM(A) also returns the number of matrix square roots
 %   computed, s, and the degree k of the Pade approximant.
 
 %   Reference: 

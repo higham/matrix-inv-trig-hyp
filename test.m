@@ -1,4 +1,4 @@
-% TEST   Brief test of new matrix inverse trigonometric sine functions.
+%TEST   Brief test of new matrix inverse trigonometric sine functions.
 
 n = 5;
 rng(n);

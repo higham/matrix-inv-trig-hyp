@@ -1,6 +1,6 @@
 function X = acoshm(A)
-%acoshm    Matrix inverse hyperbolic cosine.
-%   X = acoshm(A) is the principal inverse hyperbolic cosine of A.
+%ACOSHM    Matrix inverse hyperbolic cosine.
+%   X = ACOSHM(A) is the principal inverse hyperbolic cosine of A.
 %   A must not have any eigenvalues -1 or 1, which are the branch points
 %   of the inverse hyperbolic cosine.
 
@@ -28,8 +28,8 @@ end
 
 %%%%%%%%%%%%%%%%%%%%%%%
 function S = matsignt(T)
-%matsignt    Matrix sign function of a triangular matrix.
-%   S = matsign(T) computes the matrix sign function S of the
+%MATSIGNT    Matrix sign function of a triangular matrix.
+%   S = MATSIGN(T) computes the matrix sign function S of the
 %   upper triangular matrix T using a recurrence.
 
 %   This function is a minor adaptation of subfunction matsign 
